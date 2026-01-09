@@ -51,6 +51,12 @@ Aspect ratio is preserved throughout the resizing process to avoid image distort
 
 ---
 
+## Output Comparison
+The following image shows a visual comparison between the original images and their resized versions generated using the MATLAB tool.
+
+![Original vs Resized Images](images/output_comparison.png)
+
+---
 ## Applications
 - Website optimization
 - Email attachments
